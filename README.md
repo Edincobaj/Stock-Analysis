@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-### The objective of this analysis is to refactor our stock analysis code to be able to handle more than a few stocks quickly.
+### The objective of this analysis is to refactor our stock analysis code to be able to handle more data and decrease our code run time.
 
 ## Results
 
